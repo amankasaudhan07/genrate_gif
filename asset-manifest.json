@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/genrate_gif/static/css/main.264a5e3a.css",
+    "main.js": "/genrate_gif/static/js/main.b95d9082.js",
+    "index.html": "/genrate_gif/index.html",
+    "main.264a5e3a.css.map": "/genrate_gif/static/css/main.264a5e3a.css.map",
+    "main.b95d9082.js.map": "/genrate_gif/static/js/main.b95d9082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264a5e3a.css",
+    "static/js/main.b95d9082.js"
+  ]
+}
